@@ -1,11 +1,11 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import QrGen from './QrGen';
+import PaginationStrap from './PaginationStrap';
 
 function App() {
   return (
     <>
-    <QrGen/>
+    <PaginationStrap/>
     </>
   );
 }
